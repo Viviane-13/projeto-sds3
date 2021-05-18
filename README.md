@@ -15,7 +15,6 @@ O deploy e a publicação foram feitas no site da Netlify</p>
 <br>
 <h1>Dashboard de Vendas</h1>
 
-
 ![dash](https://i.imgur.com/8FmoT4s.jpeg)
 
 
