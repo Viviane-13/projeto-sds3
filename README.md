@@ -11,7 +11,7 @@
   </ul>
 
 O deploy e a publicação foram feitas no site da Netlify</p>
-<p>Projeto disponível em: <a href="https://viviane-dsvendas.netlify.app/dashboard">Dashboard Vendas</a></p>
+<p>Projeto disponível em: <a href="https://viviane-dsvendas.netlify.app/">Dashboard Vendas</a></p>
 <br>
 <h1>Dashboard de Vendas</h1>
 
